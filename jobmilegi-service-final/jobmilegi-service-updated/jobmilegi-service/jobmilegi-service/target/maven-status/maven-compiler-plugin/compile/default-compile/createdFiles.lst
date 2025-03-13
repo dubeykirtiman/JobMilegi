@@ -1,0 +1,12 @@
+com\jobmilegi\service\model\User.class
+com\jobmilegi\service\JobmilegiApplication.class
+com\jobmilegi\service\entity\Job.class
+com\jobmilegi\service\service\UserService.class
+com\jobmilegi\service\model\Job.class
+com\jobmilegi\service\controller\JobController.class
+com\jobmilegi\service\model\User$UserBuilder.class
+com\jobmilegi\service\repository\UserRepository.class
+com\jobmilegi\service\config\SecurityConfig.class
+com\jobmilegi\service\controller\UserController.class
+com\jobmilegi\service\service\JobService.class
+com\jobmilegi\service\repository\JobRepository.class
